@@ -1,0 +1,35 @@
+.top-container{
+        background-color: #1F2937;
+        flex-grow: 1;
+        flex-shrink: 1;
+}
+
+.header{
+        padding: 21px;
+        display: flex;
+        justify-content: center;
+        justify-content: space-around;
+}
+
+.links{
+        padding-top: 20px;
+        
+}
+
+.header-two{
+        flex-direction: column;
+        align-items: center;
+        padding-left: 217px;
+        flex-grow: 1;
+        flex-shrink: 1;
+        
+}
+
+.header-img{
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 200px;     
+        flex-grow: 1;
+        flex-shrink: 1;     
+}
+
