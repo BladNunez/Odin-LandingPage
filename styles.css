@@ -63,19 +63,16 @@ button{
         
 }
 
+.second-container{
+        padding: 30px;
+}
+
 .images-second-container{
         display: flex;
         justify-content: center;
-        gap: 30px;
-        
-
+        gap:20px;
 }
 
-.text-img-second-container{
-        display:flex;
-        justify-content: center;
-
-}
 
 .third-container{
         background-color: #E5E7EB;
