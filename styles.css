@@ -54,5 +54,44 @@ button{
 
 }
 
+.info{
+        color: #1F2937;
+        font-size: 36px;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+        
+}
 
+.images-second-container{
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        
 
+}
+
+.text-img-second-container{
+        display:flex;
+        justify-content: center;
+
+}
+
+.third-container{
+        background-color: #E5E7EB;
+        flex-direction: column;
+
+}
+
+.third-container-text{
+        align-items: center;
+        color: #1F2937;
+        font-style: italic;
+        font-size: 25px;
+        padding: 80px;
+}
+
+.third-container-text > .author{
+        font-style: italic;
+        font-weight: bold;
+}
